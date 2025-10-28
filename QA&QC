@@ -1,0 +1,23 @@
+QA(Quality Assurance):
+is apreactive process oriented approach aims to prevent defects by improving development process.
+Feature         Quality Assurance(QA)
+Approach	      Proactive; focuses on preventing defects.
+Focus	          The process and system used to create the product.
+Goal           	To improve the development process and prevent future errors.	
+
+ QA (Quality Assurance) is applicable:
+1. During development: To ensure processes and procedures are followed.
+2. To prevent defects: By identifying and mitigating risks.
+3. To improve processes: By continuously monitoring and improvsystems.
+
+QC(Quality control):
+is a reactive,product-oriented approach that aims to detect and correct defects.
+Feature	       Quality Control (QC)
+Approach	     Reactive; focuses on finding and correcting defects .
+Focus          The final product itself.
+Goal           To identify and fix defects in the current .
+
+QC (Quality Control) is applicable:
+1. During testing: To detect defects and ensure products meet specifications.
+2. To verify quality: By inspecting and testing products.
+3. To ensure compliance: With regulatory requirements and standards.
