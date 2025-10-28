@@ -1,0 +1,26 @@
+Software Defects:
+A software defect, also known as a bug, is an error or flaw in a software application that causes it to behave unexpectedly or produce incorrect results.
+
+Types of Software Defects:
+1. Functional Defects: Affect the functionality of the software.
+2. Performance Defects: Impact the speed, efficiency, or scalability of the software.
+3. Security Defects: Compromise the security or integrity of the software.
+4. Usability Defects: Affect the user experience or user interface.
+5. Compatibility Defects: Prevent the software from working with other systems or hardware.
+
+Causes of Software Defects:
+1. Human Error: Mistakes made by developers, testers, or users.
+2. Design Flaws: Errors in the software design or architecture.
+3. Inadequate Testing: Insufficient testing or inadequate test cases.
+4. Complexity: Complexity of the software or system.
+
+Stages of Defect Life Cycle: 
+1. New:  A defect is reported and assigned a unique ID.
+2. Open: The defect is acknowledged and assigned to a developer for fixing.
+3. Assigned: The defect is assigned to a developer or team for resolution.
+4. In Progress: The developer is working on fixing the defect.
+5. Fixed: The defect is fixed, and a patch or update is prepared.
+6. Pending Retest: The defect fix is pending retesting to verify the fix.
+7. Retest: The defect is retested to ensure the fix is successful.
+8. Verified: The defect is verified to be fixed, and the fix is confirmed.
+9. Closed: The defect is formally closed, and the case is marked as resolved.
