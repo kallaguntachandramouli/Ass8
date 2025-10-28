@@ -1,0 +1,8 @@
+Software Testing Life Cycle (STLC):
+Is Structured step-step process for testing software to enure it meets both Business and Tecnical.
+1. Requirement Analysis: spcification application architecutre document.
+2.Test planning: create a detailed plan for testing a software applicationor product.
+3.Test case development: create a detailed step- by-step instructionsfor testing an application or product.
+4.Environment setup: checking all the require software,hardware,internet etc.
+5.Test Execution:it is the process of running the test and cases.
+6.Test cycle closure:it is  final phase of the testing process.
