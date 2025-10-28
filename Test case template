@@ -1,0 +1,22 @@
+Test Case Template: 
+Test Case ID: Login-1A.
+Test Case Title: verify login with valid username and password.
+Description: Test the Google login page.
+Preconditions: user has  valid username and password.
+
+Steps:
+1. Account to login.
+2. Provide  valid username.
+3. Provide valid password.
+4.click on login.
+
+Test Data:
+1.valid username.
+2.valid  password.
+
+Expected Result: successful Google Account login.
+Postcondition: Google Account is shown.
+Actual Result: successful  Google Account login.
+Status:PASS.
+
+
